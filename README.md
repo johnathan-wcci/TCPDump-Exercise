@@ -9,8 +9,8 @@ This is a lab demonstrating the functionality of TCP Dump.
 
 ## Instructions
 
-1. Clone this Repo: `git clone https://github.com/johnathan-wcci/...git`
-2. Navigate into this folder: `cd ...`
+1. Clone this Repo: `git clone https://github.com/johnathan-wcci/TCPDump-Exercise.git`
+2. Navigate into this folder: `cd TCPDump-Exercise`
 3. Start the Docker Container: `docker compose -f .\docker-compose.yml up'
 4. Open Another Terminal.
 5. Bash into the TCPDump Container: `docker exec -it tcpdump-tcpdump-1 bash`
